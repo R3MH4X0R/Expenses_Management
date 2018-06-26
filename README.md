@@ -1,6 +1,9 @@
 # Expenses_Management
 This is expenses manager that uses http://fixer.io to get exchange rates based on EUR
 
+## NOTE
+This application work only with free api key!
+
 ## Install
 Clone the project
 ```
