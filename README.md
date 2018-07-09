@@ -42,8 +42,12 @@ Nuka-Cola — is the name of product purchased
 ● total EUR — this command should take a list of exchange rates from http://fixer.io , calculate the total amount of money spent and present it to user in specified currency, where:
 EUR — is the currency in which total amount of expenses should
 be presented
+
+● exit/stop - to stop application
+
 ## Built With
 * [Maven](https://maven.apache.org/)
+* [GSON](https://github.com/google/gson)
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
