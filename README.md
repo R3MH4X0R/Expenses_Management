@@ -7,7 +7,7 @@ This application work only with free api key!
 ## Install
 Clone the project
 ```
-git clone https://github.com/R3MH4X0R/Expenses_Management.git
+git clone https://github.com/n7-remax/Expenses_Management.git
 ```
 Use maven to build project
 
